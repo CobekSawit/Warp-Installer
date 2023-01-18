@@ -27,9 +27,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 #
-
 shVersion='beta39'
-
 FontColor_Red="\033[31m"
 FontColor_Red_Bold="\033[1;31m"
 FontColor_Green="\033[32m"
@@ -39,7 +37,6 @@ FontColor_Yellow_Bold="\033[1;33m"
 FontColor_Purple="\033[35m"
 FontColor_Purple_Bold="\033[1;35m"
 FontColor_Suffix="\033[0m"
-
 log() {
     local LEVEL="$1"
     local MSG="$2"
