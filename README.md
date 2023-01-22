@@ -39,10 +39,12 @@ Supported platform architecture:
 ## Installation
 
 Update and Upgrade Package
-```apt update && apt upgrade -y
+```
+apt update && apt upgrade -y
 ```
 Installation Warp
-```wget https://raw.githubusercontent.com/CobekSawit/Warp-Installer/main/install;chmod +x install;./install
+```
+wget https://raw.githubusercontent.com/CobekSawit/Warp-Installer/main/install;chmod +x install;./install
 ```
 Type "warp" for use Warp Installer
 
