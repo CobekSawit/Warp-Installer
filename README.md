@@ -50,7 +50,7 @@ wget https://raw.githubusercontent.com/CobekSawit/Warp-Installer/main/install;ch
 
 Type "warp" for use Warp Installer
 
-![image.png]( {https://raw.githubusercontent.com/CobekSawit/Warp-Installer/main/Warp-jpg.png} ) 
+![image.png](https://raw.githubusercontent.com/CobekSawit/Warp-Installer/main/Warp-jpg.png) 
 
 ## Access WARP
 - If you want to use this script you have to pay 10,000 Rupiah for Indonesia.
