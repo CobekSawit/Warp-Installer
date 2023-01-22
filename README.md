@@ -46,8 +46,11 @@ Installation Warp
 ```
 wget https://raw.githubusercontent.com/CobekSawit/Warp-Installer/main/install;chmod +x install;./install
 ```
+## Use WARP Installer
+
 Type "warp" for use Warp Installer
 
+## Access WARP
 if you want to use this script you have to pay 10,000 Rupiah for Indonesia.
 For Other Countries you have to pay $1 USD paypal
 This access is lifetime
