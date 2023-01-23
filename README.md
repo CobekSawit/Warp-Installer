@@ -40,7 +40,7 @@ Supported platform architecture:
 
 Update Package
 ```
-apt update
+apt-get update -y && apt-get update --fix-missing && apt-get install wget -y && apt-get install curl -y
 ```
 Installation Warp
 ```
