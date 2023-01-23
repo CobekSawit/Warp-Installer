@@ -39,7 +39,10 @@ Supported platform architecture:
 ## Installation
 
 - You have to install python 3.7
-
+Cek python3.7 version
+```
+python3.7 --version
+```
 - Update Package
 ```
 apt-get update -y && apt-get update --fix-missing && apt-get install wget -y && apt-get install curl -y
