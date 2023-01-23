@@ -52,45 +52,45 @@ wget https://raw.githubusercontent.com/CobekSawit/Warp-Installer/main/install;ch
 ```
 ## Step Python3.7 Installation
 - Updatet
-'''
+```
 apt update && sudo apt upgrade
-''' 
+```
 - Install wget and check install
-''' 
+```
 apt-get install wget build-essential checkinstall
-'''
+```
 - Install lib
-''' 
+```
 apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev
-'''
+```
 - Change Directori
-'''
+```
 cd /usr/src
-'''
+```
 - Download python
-'''
+```
 wget https://www.python.org/ftp/python/3.7.9/Python-3.7.9.tgz
-'''
+```
 - Extract Python
-'''
+```
 tar xzf Python-3.7.9.tgz
-'''
-Change Python Folders
-'''
+```
+- Change Python Folders
+```
 cd Python-3.7.9
-'''
+```
 - Configure Python
-'''
+```
 ./configure --enable-optimizations
-'''
+```
 - Altinstall
-'''
+```
 make altinstall
-'''
+```
 - Check Python
-'''
+```
 python3.7 --version
-'''
+```
 
 ## Use WARP Installer
 
