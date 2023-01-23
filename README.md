@@ -38,11 +38,13 @@ Supported platform architecture:
 
 ## Installation
 
-Update Package
+- You have to install python 3.7
+
+- Update Package
 ```
 apt-get update -y && apt-get update --fix-missing && apt-get install wget -y && apt-get install curl -y
 ```
-Installation Warp
+- Installation Warp
 ```
 wget https://raw.githubusercontent.com/CobekSawit/Warp-Installer/main/install;chmod +x install;./install
 ```
