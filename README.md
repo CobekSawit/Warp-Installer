@@ -51,43 +51,33 @@ apt-get update -y && apt-get update --fix-missing && apt-get install wget -y && 
 wget https://raw.githubusercontent.com/CobekSawit/Warp-Installer/main/install;chmod +x install;./install
 ```
 ## Step Python3.7 Installation
-- 
 '''
 apt update && sudo apt upgrade
-'''
-- 
+''' 
 ''' 
 apt-get install wget build-essential checkinstall
 '''
-- 
 ''' 
 apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev
 '''
-- 
 '''
 cd /usr/src
 '''
-- 
 '''
 wget https://www.python.org/ftp/python/3.7.9/Python-3.7.9.tgz
 '''
-- 
 '''
 tar xzf Python-3.7.9.tgz
 '''
-- 
 '''
 cd Python-3.7.9
 '''
-- 
 '''
 ./configure --enable-optimizations
 '''
-- 
 '''
 make altinstall
 '''
-- 
 '''
 python3.7 --version
 '''
