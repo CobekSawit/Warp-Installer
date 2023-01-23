@@ -38,9 +38,9 @@ Supported platform architecture:
 
 ## Installation
 
-Update and Upgrade Package
+Update Package
 ```
-apt update && apt upgrade -y
+apt update
 ```
 Installation Warp
 ```
