@@ -38,9 +38,9 @@ Supported platform architecture:
 
 ## Installation
 
-- You have to install python 3.7 | Cek python3.7 version
+- You have to install python 3 | Cek python3 version
 ```
-python3.7 --version
+python3 --version
 ```
 - Update Package
 ```
