@@ -99,7 +99,7 @@ Type "warp" for use Warp Installer
 ![image.png](https://raw.githubusercontent.com/CobekSawit/Warp-Installer/main/Warp-jpg.png) 
 
 ## Access WARP
-- If you want to use this script you have to pay 10,000 Rupiah for Indonesia.
+- If you want to use this script you have to pay 15,000 Rupiah for Indonesia.
 - For Other Countries you have to pay $1 USD paypal
 - This access is lifetime
 
